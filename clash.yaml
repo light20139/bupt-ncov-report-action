@@ -189,8 +189,6 @@ proxies:
     headers:
       Host: dl3.127.0.0.1.arsha疯狂麦克斯传奇.angels蓝色.bursting.suonycars.buzz.
     path: /vmess
-
-
 - name: 加拿大 011
   type: vmess
   network: ws
@@ -206,7 +204,6 @@ proxies:
     headers:
       Host: icy-tooth-3d05.plzthsmdnss-7d8ly.workers.dev
     path: /obdii.cfd/linkws
-
 - name: 加拿大 015
   type: trojan
   network: ws
